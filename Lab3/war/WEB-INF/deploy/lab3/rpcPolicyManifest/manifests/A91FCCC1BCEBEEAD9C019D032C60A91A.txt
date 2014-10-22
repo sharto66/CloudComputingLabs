@@ -1,0 +1,2 @@
+serviceClass: ie.dit.hartnett.sean.client.GreetingService
+path: 397534D80BEB7F1B7AFE64A83F3237C6.gwt.rpc

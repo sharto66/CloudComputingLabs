@@ -1,0 +1,3 @@
+# Module lab3
+# RPC service class, partial path of RPC policy file
+ie.dit.hartnett.sean.client.GreetingService, 397534D80BEB7F1B7AFE64A83F3237C6.gwt.rpc
